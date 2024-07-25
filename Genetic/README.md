@@ -78,10 +78,4 @@ In this project, the aim is to approximate an unknown function using Genetic Pro
 9. **Summary and Conclusions**:
     - Insights and practical conclusions derived from the project.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
-
-This template provides a comprehensive overview of the project, detailing the objectives, features, how to run the code, and the required reporting. Ensure to update any placeholders with your actual information.
