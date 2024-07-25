@@ -49,27 +49,6 @@ Each directory includes its own `README.md` file with detailed information about
   - Analyze the impact of different parameters on the tree’s performance.
 - **Deliverables**: Code, performance comparisons, and a detailed report.
 
-## How to Use
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/AI-ExpertSystems-Projects.git
-    ```
-
-2. **Navigate to a Project Directory**:
-    ```bash
-    cd AI-ExpertSystems-Projects/SVM
-    ```
-
-3. **Install Dependencies**:
-    Each project may have its own dependencies listed in a `requirements.txt` file. Install them using:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run the Project**:
-    Follow the instructions in the respective `README.md` file to run the project and reproduce the results.
-
 ## Contributors
 
 - [Helen Azad]
